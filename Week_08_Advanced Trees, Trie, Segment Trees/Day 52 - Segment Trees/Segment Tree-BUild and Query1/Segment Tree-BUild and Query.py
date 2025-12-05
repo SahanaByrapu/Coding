@@ -1,0 +1,1 @@
+"""https://www.geeksforgeeks.org/dsa/segment-tree-sum-of-given-range/"""
