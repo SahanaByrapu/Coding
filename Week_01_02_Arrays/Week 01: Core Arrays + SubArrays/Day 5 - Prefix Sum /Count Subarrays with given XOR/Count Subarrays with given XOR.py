@@ -2,3 +2,5 @@
 
 def prefixSumSubarrayXOR:
 
+  sum=0
+
