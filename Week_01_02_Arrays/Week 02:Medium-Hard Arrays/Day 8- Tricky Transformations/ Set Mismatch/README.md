@@ -12,3 +12,8 @@ Find the number that occurs twice and the number that is missing and return them
 **Example 2:**
 **Input:** nums = [1,1]
 **Output:** [1,2]
+
+**Constraints:**
+
+2 <= nums.length <= 104
+1 <= nums[i] <= 104
