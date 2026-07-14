@@ -1,1 +1,0 @@
-"""https://www.geeksforgeeks.org/dsa/segment-tree-range-minimum-query/"""
